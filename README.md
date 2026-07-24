@@ -11,7 +11,7 @@
 - Departure from the vehicle with information on the time spent inside the yard
 
 ##### Stylized with css flexbox
-![capa](./src/img/capa.png)
+![capa](./src/img/capa.jpeg)
 
 ## Available Scripts
 
